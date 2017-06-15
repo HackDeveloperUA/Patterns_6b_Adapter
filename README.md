@@ -2,7 +2,7 @@
 
 # Adapter
 
-## Адаптер ##- конвертирует интерфейс класса, на тот который ожидается.
+## Адаптер - конвертирует интерфейс класса, на тот который ожидается.
    
    Хороший пример это стандарты розеток и адаптеры для них.
    
@@ -14,4 +14,7 @@
    Это второй вариант реализации этого паттерна.(тут работа с делегатами)
    
    ![alt text](https://raw.githubusercontent.com/HackDeveloperUA/Patterns_6b_Adapter/master/Patterns_6b_Adapter/Pattern_Adapter_6b.png)
+   
+   
+  ---
    ![alt text](https://raw.githubusercontent.com/HackDeveloperUA/Patterns_6b_Adapter/master/Patterns_6b_Adapter/Pattern_Adapter_6b2.png)
